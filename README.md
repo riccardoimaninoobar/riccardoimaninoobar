@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Riccardo – University GitHub Profile
 
-<!--
-**riccardoimaninoobar/riccardoimaninoobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science student  
 
-Here are some ideas to get you started:
+### Skills
+- **SQL** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+- **Java** ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+- **C#** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+- **RDF** ![RDF](https://img.shields.io/badge/RDF-4BAF4F?style=flat)  
+- **XML** ![XML](https://img.shields.io/badge/XML-E34C26?style=flat&logo=xml&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Software Engineering in Java  
+
+
